@@ -1,0 +1,10 @@
+12864|Howrah Chennai Express|Howrah|Chennai|1660|14:00|10:00|10|8|4
+12002|Bhopal Shatabdi|New Delhi|Bhopal|700|06:00|14:00|10|8|4
+12009|Shatabdi Express|Mumbai Central|Ahmedabad|490|06:20|12:45|10|8|4
+12627|Karnataka Express|Bengaluru|New Delhi|2400|19:20|10:30|10|8|4
+12727|Godavari Express|Hyderabad|Visakhapatnam|700|17:30|06:00|10|8|4
+12801|Purushottam Express|Puri|New Delhi|1850|21:45|04:00|10|8|4
+12615|Grand Trunk Express|Chennai|New Delhi|2180|18:40|06:20|10|8|4
+12951|Mumbai Rajdhani|Mumbai Central|New Delhi|1380|16:35|08:30|10|8|4
+12839|Chennai Mail|Chennai|Howrah|1660|23:45|04:00|10|8|4
+18477|Kalinga Utkal Express|Puri|Haridwar|1900|21:55|04:00|10|8|4
